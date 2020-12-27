@@ -16,7 +16,7 @@ import plotly.graph_objects as go
 import plotly.io as pio
 
 
-"""
+
 You will need Python 3, the above packages, and two external files: 
 
 1. pubmed_results_parsed.csv (search-result data)
