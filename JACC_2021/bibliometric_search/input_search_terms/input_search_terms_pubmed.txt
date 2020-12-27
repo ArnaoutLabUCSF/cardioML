@@ -1,0 +1,8 @@
+"machine learning" OR "deep learning" AND cardiac
+"machine learning" OR "deep learning" AND heart
+"machine learning" OR "deep learning" AND cardiology
+"machine learning" OR "deep learning" AND cardiovascular
+"artificial intelligence" AND cardiac
+"artificial intelligence" OR "deep learning" AND heart
+"artificial intelligence" AND cardiology
+"artificial intelligence" AND cardiovascular

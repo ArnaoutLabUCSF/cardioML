@@ -1,0 +1,1 @@
+("machine learning" OR "deep learning" OR "artificial intelligence" OR AI) AND (cardiology OR cardiovascular OR cardiac OR heart)
