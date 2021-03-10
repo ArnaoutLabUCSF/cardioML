@@ -1,6 +1,7 @@
 # articles
 
-## If you use code or data from this repository, please cite Quer G, Arnaout R, Henne M, Arnaout R. Machine Learning and the Future of Cardiovascular Care. Journal of the American College of Cardiology; 26 January 2021.
+## If you use code or data from this repository, please cite Quer G, Arnaout R, Henne M, Arnaout R. Machine Learning and the Future of Cardiovascular Care. Journal of the American College of Cardiology; 18 January 2021. PMID 33478654
+https://pubmed.ncbi.nlm.nih.gov/33478654/
 
 The code associated with this publication is covered under the GNU General Public License.
 
