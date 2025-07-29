@@ -12,5 +12,5 @@ protobuf==3.17.2
 pydicom==2.3.0
 scikit-image==0.16.2
 scipy==1.4.1
-tensorflow==2.1.4
+tensorflow==2.12.1
 tqdm==4.64.0
