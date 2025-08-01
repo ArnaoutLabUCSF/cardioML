@@ -8,7 +8,7 @@ numpy==1.16.2
 opencv-python==4.2.0.32
 opencv-python-headless==4.2.0.32
 pandas==1.1.5
-protobuf==3.17.2
+protobuf==4.25.8
 pydicom==2.3.0
 scikit-image==0.16.2
 scipy==1.4.1
