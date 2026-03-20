@@ -9,7 +9,7 @@ opencv-python==4.2.0.32
 opencv-python-headless==4.2.0.32
 pandas==1.1.5
 protobuf==3.17.2
-pydicom==2.3.0
+pydicom==2.4.5
 scikit-image==0.16.2
 scipy==1.4.1
 tensorflow==2.1.4
